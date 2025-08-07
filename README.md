@@ -31,3 +31,5 @@ This interactive Power BI dashboard provides business stakeholders with a compre
 ---
 
 ## 🧠 Power BI Dashboard
+<img width="1536" height="1024" alt="ChatGPT Image Aug 7, 2025, 08_09_02 PM" src="https://github.com/user-attachments/assets/faf37f83-41c8-4ffe-85b9-451ff5219636" />
+
